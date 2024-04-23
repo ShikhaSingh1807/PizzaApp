@@ -1,0 +1,31 @@
+.menu {
+    background-color: bisque;
+    height: 90vh;
+}
+
+.comp {
+    color: coral;
+}
+
+.logoline {
+    width: 30vw;
+    /* border: 2px solid red; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pizzaNameStyle {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 2em;
+
+}
+
+.ingStyle {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
